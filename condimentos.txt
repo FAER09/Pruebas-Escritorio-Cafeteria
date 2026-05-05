@@ -1,0 +1,7 @@
+Leche|5.00|true
+Leche de Almendra|10.00|true
+Azúcar|2.00|true
+Canela|3.00|true
+Vainilla|5.00|true
+Crema Batida|8.00|true
+Caramelo|6.00|true

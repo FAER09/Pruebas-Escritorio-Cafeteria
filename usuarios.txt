@@ -1,0 +1,2 @@
+admin|admin123|GERENTE
+empleado1|emp123|EMPLEADO

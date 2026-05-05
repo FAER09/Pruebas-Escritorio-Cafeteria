@@ -1,0 +1,6 @@
+Empleado: empleado1
+Fecha   : 2026-05-05 13:20
+1× Cappuccino - $40,00
+1× Cappuccino - $40,00
+Total: $80,00
+---
